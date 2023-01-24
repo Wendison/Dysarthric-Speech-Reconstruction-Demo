@@ -1,4 +1,4 @@
-# Demo for dysarthric speech reconstruction
+#Demo for dysarthric speech reconstruction
 
-Audio samples at: https://wendison.github.io/Dysarthric-Speech-Reconstruction-Demo/
+#Audio samples at: https://wendison.github.io/Dysarthric-Speech-Reconstruction-Demo/
 
